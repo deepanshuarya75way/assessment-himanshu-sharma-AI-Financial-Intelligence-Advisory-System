@@ -1,0 +1,51 @@
+Date,Description,Amount,Category
+2025-09-02,Salary Credit,65000,Transfer
+2025-09-03,House Rent,18000,Bills
+2025-09-04,Swiggy Order,420,Food
+2025-09-05,Uber Ride Airport,780,Travel
+2025-09-07,Electricity Bill,2300,Utilities
+2025-09-10,Amazon Shopping,2499,Shopping
+2025-09-12,Netflix Subscription,649,Entertainment
+2025-09-15,Dmart Grocery,3560,Groceries
+2025-09-18,Pharmacy Purchase,980,Health
+2025-09-22,SIP Investment,5000,Investment
+2025-10-02,Salary Credit,65000,Transfer
+2025-10-03,House Rent,18000,Bills
+2025-10-05,Zomato Dinner,860,Food
+2025-10-07,Metro Card Recharge,1200,Travel
+2025-10-09,Internet Bill,999,Bills
+2025-10-13,Flipkart Sale Order,3899,Shopping
+2025-10-16,Movie Night,950,Entertainment
+2025-10-18,Doctor Consultation,1500,Health
+2025-10-21,Mutual Fund SIP,5000,Investment
+2025-10-24,Dmart Grocery,4120,Groceries
+2025-11-02,Salary Credit,66000,Transfer
+2025-11-03,House Rent,18500,Bills
+2025-11-05,Restaurant Dinner,1260,Food
+2025-11-06,Flight Ticket,7400,Travel
+2025-11-08,Water Bill,650,Utilities
+2025-11-11,Udemy Course,1499,Education
+2025-11-14,Amazon Shopping,5299,Shopping
+2025-11-17,Spotify Subscription,119,Entertainment
+2025-11-20,Hospital Tests,2200,Health
+2025-11-23,Grocery Store,3980,Groceries
+2025-12-02,Salary Credit,66000,Transfer
+2025-12-03,House Rent,18500,Bills
+2025-12-04,Swiggy Order,690,Food
+2025-12-06,Ola Ride,540,Travel
+2025-12-08,Electricity Bill,2480,Utilities
+2025-12-10,Amazon Shopping,2999,Shopping
+2025-12-12,Netflix Subscription,649,Entertainment
+2025-12-15,Pharmacy Purchase,890,Health
+2025-12-18,Mutual Fund SIP,6000,Investment
+2025-12-21,Dmart Grocery,4350,Groceries
+2026-01-02,Salary Credit,68000,Transfer
+2026-01-03,House Rent,19000,Bills
+2026-01-05,Cafe Meeting,540,Food
+2026-01-06,Uber Ride Office,340,Travel
+2026-01-08,Internet Bill,999,Bills
+2026-01-10,Shopping Mall,4499,Shopping
+2026-01-12,Movie Night,800,Entertainment
+2026-01-15,Gym Membership,2100,Health
+2026-01-18,Mutual Fund SIP,6000,Investment
+2026-01-20,Grocery Store,4280,Groceries
