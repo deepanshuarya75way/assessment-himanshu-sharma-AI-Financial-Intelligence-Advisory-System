@@ -38,7 +38,6 @@ python run.py
 ```
 
 Or run directly:
-
 ```powershell
 python -m streamlit run app/main.py
 ```

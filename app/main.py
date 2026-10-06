@@ -70,7 +70,7 @@ def inject_global_styles() -> None:
     st.markdown(
         f"""
         <style>
-            :root {{
+             :root {{
                 --primary: {palette.primary};
                 --secondary: {palette.secondary};
                 --accent: {palette.accent};
